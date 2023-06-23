@@ -20,25 +20,25 @@ Das Projekt ist ein Programm, das den Gesamtpreis eines Gaming-PCs berechnet und
 
 English:
 
--Input: User can enter the net price of the gaming PC.
--Input: User can enter the discount percentage for the gaming PC.
--Calculation: Calculate the discounted net price based on the entered discount percentage.
--Calculation: Calculate the VAT (value-added tax) amount on the net price.
--Calculation: Calculate the total price by adding the discounted net price and VAT amount.
--Display: Show the total price of the gaming PC.
--Display: Present a detailed receipt with the breakdown of VAT, net price, discount, and total price.
--Error Handling: Handle potential input errors and provide appropriate error messages.
+- Input: User can enter the net price of the gaming PC.
+- Input: User can enter the discount percentage for the gaming PC.
+- Calculation: Calculate the discounted net price based on the entered discount percentage.
+- Calculation: Calculate the VAT (value-added tax) amount on the net price.
+- Calculation: Calculate the total price by adding the discounted net price and VAT amount.
+- Display: Show the total price of the gaming PC.
+- Display: Present a detailed receipt with the breakdown of VAT, net price, discount, and total price.
+- Error Handling: Handle potential input errors and provide appropriate error messages.
 
 German (Deutsch):
 
--Eingabe: Benutzer kann den Nettopreis des Gaming-PCs eingeben.
--Eingabe: Benutzer kann den Rabattprozentsatz für den Gaming-PC eingeben.
--Berechnung: Berechnung des rabattierten Nettopreises basierend auf dem eingegebenen Rabattprozentsatz.
--Berechnung: Berechnung des Mehrwertsteuerbetrags auf Basis des Nettopreises.
--Berechnung: Berechnung des Gesamtpreises durch Addition des rabattierten Nettopreises und des Mehrwertsteuerbetrags.
--Anzeige: Anzeige des Gesamtpreises des Gaming-PCs.
--Anzeige: Darstellung einer detaillierten Quittung mit Aufschlüsselung von Mehrwertsteuer, Nettopreis, Rabatt und Gesamtpreis.
--Fehlerbehandlung: Behandlung potenzieller Eingabefehler und Anzeige entsprechender Fehlermeldungen.
+- Eingabe: Benutzer kann den Nettopreis des Gaming-PCs eingeben.
+- Eingabe: Benutzer kann den Rabattprozentsatz für den Gaming-PC eingeben.
+- Berechnung: Berechnung des rabattierten Nettopreises basierend auf dem eingegebenen Rabattprozentsatz.
+- Berechnung: Berechnung des Mehrwertsteuerbetrags auf Basis des Nettopreises.
+- Berechnung: Berechnung des Gesamtpreises durch Addition des rabattierten Nettopreises und des Mehrwertsteuerbetrags.
+- Anzeige: Anzeige des Gesamtpreises des Gaming-PCs.
+- Anzeige: Darstellung einer detaillierten Quittung mit Aufschlüsselung von Mehrwertsteuer, Nettopreis, Rabatt und Gesamtpreis.
+- Fehlerbehandlung: Behandlung potenzieller Eingabefehler und Anzeige entsprechender Fehlermeldungen.
 
 ## Technologies Used
 
