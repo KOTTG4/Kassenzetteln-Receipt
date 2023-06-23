@@ -9,7 +9,6 @@ Short description or overview of the project.
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- 
 ## Project Overview
 
 Provide a detailed explanation of the project, its purpose, and any relevant background information. Describe what problem it solves or what it aims to achieve. Include any project goals or objectives.
