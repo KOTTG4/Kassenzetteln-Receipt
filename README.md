@@ -1,4 +1,4 @@
-# Project Kassenzetteln / receipt
+# Project Kassenzetteln / Receipt
 
 
 ## Table of Contents
