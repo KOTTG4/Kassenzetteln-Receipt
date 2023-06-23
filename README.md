@@ -6,6 +6,8 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+
 ## Project Overview
 
 English:
@@ -43,4 +45,6 @@ German (Deutsch):
 ## Technologies Used
 
 - C++ Console
+
+## Screenshots
 
