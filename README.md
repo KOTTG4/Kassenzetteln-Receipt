@@ -1,5 +1,3 @@
-Sure! Here's an example README.md template for your school projects:
-
 # Project Name
 
 Short description or overview of the project.
