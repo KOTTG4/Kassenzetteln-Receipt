@@ -6,7 +6,6 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 
 ## Project Overview
 
@@ -46,7 +45,5 @@ German (Deutsch):
 
 - C++ Console
 
-## Screenshots
-![image](https://github.com/KOTTG4/Projekt/assets/116221777/fddc4399-3524-464d-b33f-2d3a866138ab)
 
 
